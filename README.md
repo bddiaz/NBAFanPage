@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Heroku Deployed App: https://shielded-mesa-25535.herokuapp.com/
 
+*** Progress on the page was halted due to the NBA season being suspended, hence making the webpage a lot less interesting.
+
 ## Available Scripts
 
 In the project directory, you can run:
